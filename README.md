@@ -99,13 +99,9 @@ Performance may vary depending on the hardware and the clarity of the drawn digi
 
 1. **Model Enhancements**:
    - Experiment with different architectures (ResNet, MobileNet)
-   - Add support for transfer learning
 
 2. **Application Features**:
-   - Add ability to save and load drawings
-   - Implement batch recognition for multiple digits
-   - Create a more sophisticated drawing interface with undo/redo
-   - Add support for recognizing sequences of digits
+   - Add ability to save and load drawings, implement batch recognition for multiple digits
     
 3. **Extended Functionality**:
    - Expand to recognize handwritten letters (A-Z), mathematical symbols and equations, and more
